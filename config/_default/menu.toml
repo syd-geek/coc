@@ -58,15 +58,15 @@
   url = "https://github.com/razonyang/hugo-theme-bootstrap/issues/new?template=bug_report.md"
   weight = 4
 
-[[footer]]
-  name = "Docs"
-  identifier = "docs"
-  weight = 2
+# [[footer]]
+#   name = "Docs"
+#   identifier = "docs"
+#   weight = 2
 
-[[footer]]
-  name = "Features"
-  identifier = "features"
-  weight = 3
+# [[footer]]
+#   name = "Features"
+#   identifier = "features"
+#   weight = 3
 
 [[footer]]
   identifier = "demo"
