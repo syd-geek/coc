@@ -1,0 +1,13 @@
+:root {
+  --hbs-body-font-family: "Merriweather", sans-serif;
+}
+
+.list-image {
+  display: flex;
+  margin-bottom: 2em;
+}
+.list-image img {
+  width: 100px;
+  height: 150px;
+  margin-right: 1em;
+}

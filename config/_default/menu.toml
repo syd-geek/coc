@@ -1,3 +1,9 @@
+[[main]]
+  name = "Bookshelf"
+  identifier = "bookshelf"
+  weight = 40
+  url = "/bookshelf"
+  pre = '<i class="fas fa-fw fa-chevron-circle-down"></i>'
 # [[main]]
 #   name = "Support"
 #   identifier = "support"
