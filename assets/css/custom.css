@@ -1,5 +1,9 @@
 :root {
   --hbs-body-font-family: "Merriweather", sans-serif;
+  --hbs-secondary-text-on-surface: rgba(0, 0, 0, 0.87);
+}
+.post-summary {
+  line-height: 1.9em;
 }
 
 .emoji {
@@ -18,5 +22,5 @@
 }
 
 .post-content {
-  line-height: 1.8em;
+  line-height: 1.9em;
 }
