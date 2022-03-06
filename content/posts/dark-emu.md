@@ -1,8 +1,19 @@
----
-title: "Dark Emu"
-date: 2021-11-26T21:05:49+11:00
-draft: true
----
++++
+title = "Dark Emu"
+date = "2021-11-26"
+description = "A brief description of Hugo Shortcodes"
+featured = true
+categories = [
+  "Books"
+]
+tags = [
+    "Australia",
+    "History",
+]
+images = [
+]
+draft = true
++++
 
 Title: Dark Emu
 
