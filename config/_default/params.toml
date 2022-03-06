@@ -75,7 +75,7 @@ viewer = true # Image Viewer
 [post]
   # excerpt = "description"
   # excerptMaxLength = 120
-  # copyright = false # Whether to display copyright section on each post.
+  copyright = false # Whether to display copyright section on each post.
   # plainifyExcerpt = false # Format excerpt in HTML if false.
 
 [archive]
@@ -122,9 +122,9 @@ viewer = true # Image Viewer
     # distance = 100
     # useExtendedSearch = true
 
-[reward]
-  alipay = "images/reward/alipay.png"
-  wechat = "images/reward/wechat.png"
+# # [reward]
+# #   alipay = "images/reward/alipay.png"
+#   wechat = "images/reward/wechat.png"
   #paypal = "images/reward/paypal.png"
   #patreon = "images/reward/patreon.png"
   #liberapay = "images/reward/liberapay.png"
