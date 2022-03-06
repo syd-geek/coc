@@ -2,6 +2,11 @@
   --hbs-body-font-family: "Merriweather", sans-serif;
 }
 
+.emoji {
+  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji,
+    Segoe UI Symbol, Android Emoji, EmojiSymbols;
+}
+
 .list-image {
   display: flex;
   margin-bottom: 2em;
