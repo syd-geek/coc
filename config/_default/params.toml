@@ -56,7 +56,9 @@ pinnedPostCount = 3 # The number of pinned posts.
 
 # Custom CSS and JS
 customCSS = [
+    "https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap"
 ]
+
 customJS = [
 ]
 

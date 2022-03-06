@@ -11,3 +11,7 @@
   height: 150px;
   margin-right: 1em;
 }
+
+.post-content {
+  line-height: 1.8em;
+}
