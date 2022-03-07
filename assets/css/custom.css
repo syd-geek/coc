@@ -24,3 +24,8 @@
 .post-content {
   line-height: 1.9em;
 }
+
+blockquote {
+  background-color: rgb(237, 237, 237);
+  font-style: italic;
+}

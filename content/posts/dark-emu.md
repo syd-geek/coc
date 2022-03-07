@@ -2,7 +2,7 @@
 title = "Dark Emu"
 date = "2021-11-26"
 description = "A brief description of Hugo Shortcodes"
-featured = true
+featured = false
 categories = [
   "Books"
 ]
@@ -12,7 +12,7 @@ tags = [
 ]
 images = [
 ]
-draft = true
+draft = false
 +++
 
 Title: Dark Emu
