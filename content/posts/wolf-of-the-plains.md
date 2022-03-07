@@ -1,6 +1,6 @@
 +++
 title = "Wolf of the Plains"
-date = "2022-03-06"
+date = "2021-12-11"
 description = "A brief description of Hugo Shortcodes"
 featured = true
 categories = [
