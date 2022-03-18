@@ -29,7 +29,7 @@ This way of going through life suits someone who is driven by outer scorecard.
 
 There may be an upside to this, but that too depends on external validation.
 
-A better tool is to cultivate Positive Asymmetry. Shane describes it as
+A better way is to cultivate Positive Asymmetry. Shane describes it as
 
 > Positive asymmetry happens when you have a lot of upside and little downside
 
