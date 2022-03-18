@@ -14,7 +14,7 @@ tags = [
 ]
 images = [
 ]
-draft = falsot e
+draft = false
 +++
 
 Title: Wolf of the Plains
