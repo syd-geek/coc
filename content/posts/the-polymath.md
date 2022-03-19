@@ -10,7 +10,7 @@ tags = [
 ]
 images = [
 ]
-draft = false
+draft = true
 +++
 
 ## Reconditioning the mind
