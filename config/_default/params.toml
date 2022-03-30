@@ -26,6 +26,7 @@ palette = "blue" # Default palette. Optional. You'll need to clear the browser c
 
 # Google Adsense
 googleAdsense = ""
+comment = false
 
 # math = true # Enable math globally.
 # toc = false # Disable TOC globally.
@@ -104,7 +105,7 @@ viewer = true # Image Viewer
   # sa = true # Adaptations must be shared under the same terms.
 
 [utterances]
-  repo = "razonyang/hugo-theme-bootstrap-comments" # Replace with your repository.
+  # repo = "razonyang/hugo-theme-bootstrapomments" # Replace with your repository.
   #issueTerm = "pathname" # pathname, url, title, og:title
   #label = "comment"
   # By default, light and dark mode correspond to github-light and github-dark, respectively.
