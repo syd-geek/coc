@@ -1,4 +1,5 @@
-name = "Hi! I'm Deepak"
+name = "Hi!"
+# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
 # avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
 bio = "Welcome to my website"
 # company = 'Company'
